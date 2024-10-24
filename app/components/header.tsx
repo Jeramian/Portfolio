@@ -12,7 +12,7 @@ export const Header = () => {
                     <h1 className='font-bold text-5xl bg-clip-text text-transparent bg-gradient-to-r from-cyan-600 to-pink-600 mb-4 leading-tight'>A WEB DEVELOPER</h1>
                     <p className='text-white mb-1 leading-snug'>I&apos;m passionate about web development and thrive on creating dynamic, user-friendly applications.</p>
                     <p className='text-white mb-1 leading-snug'>My primary focus is on JavaScript, where I enjoy leveraging frameworks and technologies like React, Next.js, Node.js, and Express to build robust solutions.</p>
-                    <p className='text-white mb-1 leading-snug'>Whether I'm crafting seamless user interfaces or developing scalable back-end services.</p>
+                    <p className='text-white mb-1 leading-snug'>Whether I&apos;m crafting seamless user interfaces or developing scalable back-end services.</p>
                     <p className='text-white leading-snug'>I love the challenge of bringing ideas to life in the digital world.</p>
                 </div>
 
