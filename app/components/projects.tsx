@@ -8,11 +8,15 @@ export const Projects = () => {
       {/* Projects Row */}
       <div className='flex flex-wrap justify-center space-x-8'>
         <div className='bg-black text-white p-4 rounded-lg shadow-lg transition-transform transform hover:scale-105'>
-          <h2 className='text-xl font-bold'>BookMarkr</h2>
+          <h2 className='text-xl font-bold'>
+            <a href='https://book-markr.vercel.app/login' target='_blank' rel='noopener noreferrer'>BookMarkr</a>
+          </h2>
           <p className='mt-2'>A web application for managing your bookshelf.</p>
         </div>
         <div className='bg-black text-white p-4 rounded-lg shadow-lg transition-transform transform hover:scale-105'>
-          <h2 className='text-xl font-bold'>Probably Weather</h2>
+          <h2 className='text-xl font-bold'>
+            <a href='https://your-link-to-probably-weather.com' target='_blank' rel='noopener noreferrer'>Probably Weather</a>
+          </h2>
           <p className='mt-2'>A lightweight weather application</p>
         </div>
         {/* Add more projects as needed */}
