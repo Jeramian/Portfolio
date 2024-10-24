@@ -15,13 +15,11 @@ export const Projects = () => {
         </div>
         <div className='bg-black text-white p-4 rounded-lg shadow-lg transition-transform transform hover:scale-105'>
           <h2 className='text-xl font-bold'>
-            <a href='https://your-link-to-probably-weather.com' target='_blank' rel='noopener noreferrer'>Probably Weather</a>
+            <a href='https://probably-weather.vercel.app' target='_blank' rel='noopener noreferrer'>Probably Weather</a>
           </h2>
           <p className='mt-2'>A lightweight weather application</p>
         </div>
-        {/* Add more projects as needed */}
       </div>
-      {/* Negative margin to pull footer closer */}
       <div className='-mt-8'></div>
     </div>
   );
