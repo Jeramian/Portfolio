@@ -8,9 +8,9 @@ export const Header = () => {
             <div className='flex flex-row justify-between items-center w-full max-w-6xl px-4'>
                 {/* Text Box */}
                 <div className='max-w-xl text-left'>
-                    <h1 className='font-bold text-5xl bg-clip-text text-transparent bg-gradient-to-r from-pink-600 to-cyan-600 mb-2'>HELLO, I'M JEREMY</h1>
+                    <h1 className='font-bold text-5xl bg-clip-text text-transparent bg-gradient-to-r from-pink-600 to-cyan-600 mb-2'>HELLO, I&apos;M JEREMY</h1>
                     <h1 className='font-bold text-5xl bg-clip-text text-transparent bg-gradient-to-r from-cyan-600 to-pink-600 mb-4 leading-tight'>A WEB DEVELOPER</h1>
-                    <p className='text-white mb-1 leading-snug'>I’m passionate about web development and thrive on creating dynamic, user-friendly applications.</p>
+                    <p className='text-white mb-1 leading-snug'>I&apos;m passionate about web development and thrive on creating dynamic, user-friendly applications.</p>
                     <p className='text-white mb-1 leading-snug'>My primary focus is on JavaScript, where I enjoy leveraging frameworks and technologies like React, Next.js, Node.js, and Express to build robust solutions.</p>
                     <p className='text-white mb-1 leading-snug'>Whether I'm crafting seamless user interfaces or developing scalable back-end services.</p>
                     <p className='text-white leading-snug'>I love the challenge of bringing ideas to life in the digital world.</p>
