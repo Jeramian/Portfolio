@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "./components/header";
 import Footer from "./components/footer";
 import Projects from "./components/projects";
+import Contact from "./components/contact";
 
 export const metadata: Metadata = {
   title: "Jeremys Portfolio",
@@ -19,6 +20,7 @@ export default function RootLayout({
       <body className="flex flex-col min-h-screen">
         <Header />
         <Projects />
+        <Contact />
         <Footer />
         {children}
       </body>
